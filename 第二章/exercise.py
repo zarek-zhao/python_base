@@ -3,7 +3,7 @@
 # @Time    : 2020/4/11 16:56
 # @Author  : JiuWei
 # @File    : exercise.py
-# @Software: win10  python3.8.2
+# @Software: win10  python3.7.6
 """
 针对列表names=[‘金角大王’, ‘黑姑娘’, ‘rain’, ‘eva’, ‘狗蛋’, ‘银角大王’, ‘eva’,’鸡头’]进入以下操作
 

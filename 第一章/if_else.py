@@ -3,7 +3,7 @@
 # @Time    : 2020/4/11 11:45
 # @Author  : JiuWei
 # @File    : if_else.py
-# @Software: win10  python3.8.2
+# @Software: win10  python3.7.6
 
 # 从用户哪里得到输入;
 

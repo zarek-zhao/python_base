@@ -3,7 +3,7 @@
 # @Time    : 2020/4/11 12:01
 # @Author  : JiuWei
 # @File    : 随机数.py
-# @Software: win10  python3.8.2
+# @Software: win10  python3.7.6
 
 import random
 

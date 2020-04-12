@@ -3,7 +3,7 @@
 # @Time    : 2020/4/11 20:11
 # @Author  : JiuWei
 # @File    : 购物车程序开发.py
-# @Software: win10  python3.8.2
+# @Software: win10  python3.7.6
 """
 goods = [
 {"name": "电脑", "price": 1999},

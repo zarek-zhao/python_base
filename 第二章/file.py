@@ -3,7 +3,7 @@
 # @Time    : 2020/4/12 1:01
 # @Author  : JiuWei
 # @File    : file.py
-# @Software: win10  python3.8.2
+# @Software: win10 python3.7.6
 #
 # file = open("./hello.txt", mode="a")
 # file.write("\nhello python")

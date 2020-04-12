@@ -3,7 +3,7 @@
 # @Time    : 2020/4/11 12:55
 # @Author  : JiuWei
 # @File    : 循环加减和.py
-# @Software: win10  python3.8.2
+# @Software: win10  python3.7.6
 
 # 使用while循环实现输出2-3+4-5+6…+100 的和
 number = 2

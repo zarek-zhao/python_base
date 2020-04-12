@@ -3,7 +3,7 @@
 # @Time    : 2020/4/11 12:27
 # @Author  : JiuWei
 # @File    : 双色球.py
-# @Software: win10  python3.8.2
+# @Software: win10  python3.7.6
 """
 双色球彩票 选购程序
 

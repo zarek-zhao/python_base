@@ -3,7 +3,7 @@
 # @Time    : 2020/4/11 13:01
 # @Author  : JiuWei
 # @File    : 输入图形.py
-# @Software: win10  python3.8.2
+# @Software: win10  python3.7.6
 
 i = 1
 

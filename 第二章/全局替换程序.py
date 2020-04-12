@@ -2,10 +2,14 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/4/12 3:35
 # @Author  : JiuWei
-# @File    : 读取外部指令.py
-# @Software: win10  python3.8.2
-
-
+# @File    : 全局替换程序.py
+# @Software: win10  python3.7.6
+"""
+练习题1 —— 全局替换程序：
+写一个脚本，允许用户按以下方式执行时，即可以对指定文件内容进行全局替换
+python your_script.py old_str new_str filename
+替换完毕后打印替换了多少处内容
+"""
 # str.replace(old, new[, max])
 import sys
 import os
